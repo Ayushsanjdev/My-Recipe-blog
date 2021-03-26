@@ -1,0 +1,30 @@
+/*resetting everything*/
+*, html, body {
+	border: 1px solid green;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	max-width: 969px;
+	margin: 0 auto;
+}
+
+#head .main-head {
+	font-size: 3rem;
+	line-height: 4rem;
+	width: 60%;
+
+}
+
+#head-summary .head-para {
+	font-size: 0.8rem;
+	font-family: monospace;
+	width: 50%;
+}
+
+#image-div > img {
+	width: 100%;
+	padding-top: 30px;
+}
