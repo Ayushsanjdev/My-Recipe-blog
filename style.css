@@ -134,8 +134,9 @@ form > label {
 #sec-link > p {
 	font-family: Montserrat;
 	color: #bdbdbd;
-	letter-spacing: -0.08em;
+	letter-spacing: -0.02em;
 	line-height: 150%;
+	text-align-last: center;
 }
 
 #footer {
