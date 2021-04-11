@@ -32,7 +32,7 @@ body {
 	font-weight: 500;
 	font-family: Montserrat;
 	width: 55%;
-	letter-spacing: -0.05em;
+	letter-spacing: -0.02em;
 	word-spacing: 0.5rem;
 	line-height: 1.2rem;
 
@@ -100,7 +100,7 @@ form > input {
 form > label {
 	display: inline-block;
 	margin-top: 10px;
-	letter-spacing: -0.05em;
+	letter-spacing: -0.01em;
 	font-family: Montserrat;
 	line-height: 1.2rem;
 	font-size: 1rem;
@@ -114,7 +114,7 @@ form > label {
 	margin-bottom: 30px;
 	font-family: Montserrat;
 	line-height: 1.3rem;
-	letter-spacing: -0.02em;
+	letter-spacing: -0.01em;
 }
 
 #instructions-sec > div {
@@ -134,7 +134,7 @@ form > label {
 #sec-link > p {
 	font-family: Montserrat;
 	color: #bdbdbd;
-	letter-spacing: -0.08em;
+	letter-spacing: -0.02em;
 	line-height: 150%;
 }
 
@@ -149,7 +149,7 @@ form > label {
 	margin-bottom: 20px;
 	margin-top: 30px;
 	color: #828282;
-	letter-spacing: -0.05em;
+	letter-spacing: -0.01em;
 	font-weight: 300;
 }
 
